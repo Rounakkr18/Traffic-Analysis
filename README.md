@@ -69,7 +69,7 @@ Classify whether a GPS datapoint is from a **peak hour** (7–9 AM or 5–7 PM)
 ```
 traffic-analysis/
 │
-├── VED_171101_week.csv        # Raw VED dataset (CSV)
+├── VED_171101_week.csv        # Raw VED dataset (1 week)(CSV)
 ├── Traffic.ipynb              # full code                 
 ├── outputs/                   # Graphs & heatmaps screnshots
 ├── congestion_heatmap.html    # GPS heatmap (interactive)
